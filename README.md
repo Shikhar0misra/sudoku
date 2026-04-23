@@ -122,17 +122,16 @@ python sudoku_gui.py
 
 ---
 
-## 👤 Author
+## 👤 Made By
+Uday Gangal
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
+Shikhar Misra
+
+vanshika rajput
+
+Lakshay Saini
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 ⭐ If you found this helpful, give it a star on GitHub!
